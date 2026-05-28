@@ -1,4 +1,4 @@
-# C-Console-Project-Lists-And-Collections
+# CSharp-Console-Project-Lists-And-Collections
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates the use of Lists and Collections by storing and displaying a collection of items in the console.
